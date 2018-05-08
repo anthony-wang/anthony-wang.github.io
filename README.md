@@ -1,9 +1,8 @@
 # anthony-wang.github.io
 
-Musings of a [Google Summer of Code 2018](https://summerofcode.withgoogle.com/) ("GSoC") student. Follow along to see the latest developments!
+Hi! Welcome to my GitHub profile page. As you can see, it's a WIP :D
 
-Website setup based on [NumFOCUS's guide](https://github.com/numfocus/gsoc/blob/master/gsoc_student_blog_setup.md).
+For the meantime though, you can check out:
 
----
-
-My profile website: https://aytwang.ca
+* My profile website: https://aytwang.ca
+* My blog for during [GSoC 2018](https://summerofcode.withgoogle.com/): https://github.com/anthony-wang/gsoc_blog
